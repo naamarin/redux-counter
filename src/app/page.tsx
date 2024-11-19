@@ -1,6 +1,6 @@
 import Image from "next/image";
-import { Buttons } from "../components/buttons/buttons"
-import { Count } from "../components/count/count"
+import Buttons from '../components/buttons/buttons'
+import Count from '../components/count/count'
 
 export default function Home() {
   return (
